@@ -1,11 +1,3 @@
-#Name : Soham Siddharam Kulkarni
-#Te IT 
-#Roll Number: 42
-#Cyber Security 
-#Assignment 2
-#Packet Sniffing
-
-
 import socket
 from struct import unpack
 import os
